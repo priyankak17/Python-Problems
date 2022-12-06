@@ -1,4 +1,4 @@
-# Python-code-snippets
+# Python-Problems for practise
 
 1. GPA To Pointer Converter 
 2. Caesar Cipher
